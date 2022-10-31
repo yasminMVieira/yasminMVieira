@@ -12,7 +12,11 @@
          
          
 ## 📈GitHub Stats
-<div align="center"><a href="https://github.com/yasminMVieira"><img height="180em"  width="450em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminMVieira&layout=compact&langs_count=7&theme=radical"> <img height="180em"  width="450em" src="https://github-readme-stats.vercel.app/api?username=yasminMVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></div>
+<div align="center">
+  <a href="https://github.com/yasminMVieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminMVieira&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminMVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
 
 
