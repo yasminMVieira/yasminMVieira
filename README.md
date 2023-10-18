@@ -7,7 +7,7 @@
 
 
 ## 💻Languages && Tools 
-<img src= "https://user-images.githubusercontent.com/91732850/198840984-b0e957c2-dcc2-4b8c-88eb-4bc30232a4f6.png" width="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src= "https://user-images.githubusercontent.com/91732850/198895860-c900c65c-22cd-414f-927c-48104020f285.png" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=c,java,php,python,html,css,postgres,idea,vscode)](https://skillicons.dev)
 
          
          
