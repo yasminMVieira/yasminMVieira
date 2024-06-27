@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I’m Yasmin Marques Vieira <img src= "https://user-images.githubusercontent.com/91732850/198894430-4d37b31c-38c9-4bef-9e50-7269bfe8c88b.png" width="150" height="150" align="middle"/></h1> 
 
   
-- 👀 I have a degree in Computer Science - Federal University of Uberlândia (UFU).
+- 👀 Bacharel in Computer Science - Federal University of Uberlândia (UFU).
 - 📫 How to reach me: minmarques2001@gmail.com
 
 
