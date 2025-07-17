@@ -7,7 +7,7 @@
 
 
 ## 💻Languages && Tools 
-[![My Skills](https://skillicons.dev/icons?i=c,java,php,python,html,css,postgres,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,php,python,html,css,react,figma,postgres,mongodb,idea,vscode&perline=6)](https://skillicons.dev)
 
          
          
