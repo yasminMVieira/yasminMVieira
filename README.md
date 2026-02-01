@@ -11,12 +11,6 @@
 
 
         
-         
-## 📈GitHub Stats
-<div align="center">
-  <a href="https://github.com/yasminMVieira">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=yasminMVieira"/>
-</div>
 
 
 
